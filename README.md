@@ -15,6 +15,6 @@ This Python script is designed to identify Type II pathway cross-talk by analyzi
 
 
 
-#Author
+# Author
 Mohita Mahajan
 Email: mahajanmohita93@gmail.com
