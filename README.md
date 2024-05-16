@@ -1,4 +1,5 @@
-# Pathway cross-talk-analysis (Integration of gene expression data with pathway information)
+# Pathway Cross-talk Analysis 
+Integration of gene expression data with pathway information 
 
 
 
