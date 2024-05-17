@@ -1,25 +1,25 @@
 setwd("/home/path/")
 
-tpm<-read.csv("Gene_Expression.csv", header = T, row.names = 1, sep = ",") # column are samples and row are genes
-View(tpm)
+Exp<-read.csv("Gene_Expression.csv", header = T, row.names = 1, sep = ",") # column are samples and row are genes
+View(Exp)
 sampletype<-read.table("Sample_Annoation.txt", sep = ",")[2] # Sample annoation files
 View(sampletype)
 sampletype <- as.vector(t(sampletype))
-names(sampletype) <- colnames(tpm)
+names(sampletype) <- colnames(Exp)
 Normal_s <- names(sampletype[which(sampletype=="control")])
 CRC_s <- names(sampletype[which(sampletype=="Tumor")])
 
-expNormal <- tpm[,Normal_s]
-rownames(expNormal) <- rownames(tpm)
-expCRC <- tpm[,CRC_s]
-rownames(expCRC) <- rownames(tpm)
+expNormal <- Exp[,Normal_s]
+rownames(expNormal) <- rownames(Exp)
+expCRC <- Exp[,CRC_s]
+rownames(expCRC) <- rownames(Exp)
 
 IFnetwork<-read.csv("GeneRegulatoryNetwork.csv", header = T)
 head(IFnetwork)
 
 ntwgenes <- c(t(IFnetwork[,1]),t(IFnetwork[,2]))
 ntwgenes <- ntwgenes[!(duplicated(ntwgenes))]
-expgenes <- intersect(rownames(tpm),ntwgenes)
+expgenes <- intersect(rownames(Exp),ntwgenes)
 notexpgs <- setdiff(ntwgenes,expgenes)
 
 
