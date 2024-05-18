@@ -1,5 +1,4 @@
-# Pathway Cross-talk Analysis 
-Integration of gene expression data with pathway information 
+# Integrative network analysis of transcriptomics data reveal potential prognostic biomarkers for colorectal cancer
 
 1. Type I Pathway cross-talk.py: This Python script is designed to identify Type I pathway cross-talk by analyzing co-expressed genes belonging to different pathways. 
 2. Type II Pathway cross-talk.py: This Python script is designed to identify Type II pathway cross-talk by analyzing co-expressed genes belonging to different pathways. 
@@ -13,6 +12,6 @@ This R script used to calculate the dysregulation score for each gene based on i
 
 
 
-# Author
+# Author Info
 Mohita Mahajan, Angshuman Sarkar, Sukanta Mondal*
-Email ID: mahajanmohita93@gmail.com, suku@goa.bits-pilani.ac.in
+Email ID: mahajanmohita93@gmail.com, suku@goa.bits-pilani.ac.in*
