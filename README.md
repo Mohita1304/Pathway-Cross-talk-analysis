@@ -14,5 +14,5 @@ This R script used to calculate the dysregulation score for each gene based on i
 
 
 # Author
-Mohita Mahajan
-Email: mahajanmohita93@gmail.com
+Mohita Mahajan, Angshuman Sarkar, Sukanta Mondal*
+Email ID: mahajanmohita93@gmail.com, suku@goa.bits-pilani.ac.in
