@@ -1,6 +1,6 @@
 # Integrative network analysis of transcriptomics data reveals potential prognostic biomarkers for colorectal cancer
 
-**Highlights:** \
+**Highlights:**
 
 • To study rewired pathway cross-talk guided by state-dependent gene co-expression \
 • State-dependent pathway cross-talk networks were analysed along with domain knowledge \
@@ -8,7 +8,8 @@
 • Cell communication and vascular smooth muscle cross-talk involved in CRC progression \
 • Rewired ITGA7 interactions impact the EMT (epithelial-mesenchymal transition) in CRC \
 
-**Datasets:** \
+**Datasets:** 
+
 • Gene Expression: Gene Expression Omnibus database (GEO, https://www.ncbi.nlm.nih.gov/geo/) \
 • Pathways genesets: MSigDB (Molecular Signature Database, https://www.gsea-msigdb.org/gsea/msigdb) \ 
 
