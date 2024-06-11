@@ -2,11 +2,11 @@
 **Authors**: Mohita Mahajan, Angshuman Sarkar and Sukanta Mondal
 
 **Highlights**
-• To study rewired pathway cross-talk guided by state-dependent gene co-expression
-• State-dependent pathway cross-talk networks were analysed along with domain knowledge
-• PTPRC mediate pathway crosstalk among immune system and with other signaling pathways
-• Cell communication and vascular smooth muscle cross-talk involved in CRC progression
-• Rewired ITGA7 interactions impact the EMT (epithelial-mesenchymal transition) in CRC
+• To study rewired pathway cross-talk guided by state-dependent gene co-expression\\
+• State-dependent pathway cross-talk networks were analysed along with domain knowledge\\
+• PTPRC mediate pathway crosstalk among immune system and with other signaling pathways\\
+• Cell communication and vascular smooth muscle cross-talk involved in CRC progression\\
+• Rewired ITGA7 interactions impact the EMT (epithelial-mesenchymal transition) in CRC\\
 
 **Datasets**
 • Gene Expression Datasets:  Gene Expression Omnibus database (GEO, https://www.ncbi.nlm.nih.gov/geo/)
