@@ -6,12 +6,12 @@
 • State-dependent pathway cross-talk networks were analysed along with domain knowledge \
 • PTPRC mediate pathway crosstalk among immune system and with other signaling pathways \
 • Cell communication and vascular smooth muscle cross-talk involved in CRC progression \
-• Rewired ITGA7 interactions impact the EMT (epithelial-mesenchymal transition) in CRC \
+• Rewired ITGA7 interactions impact the EMT (epithelial-mesenchymal transition) in CRC 
 
 **Datasets:** 
 
 • Gene Expression: Gene Expression Omnibus database (GEO, https://www.ncbi.nlm.nih.gov/geo/) \
-• Pathways genesets: MSigDB (Molecular Signature Database, https://www.gsea-msigdb.org/gsea/msigdb) \ 
+• Pathways genesets: MSigDB (Molecular Signature Database, https://www.gsea-msigdb.org/gsea/msigdb) 
 
 **Code**
 
