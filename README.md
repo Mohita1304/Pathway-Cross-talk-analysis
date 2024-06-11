@@ -13,16 +13,11 @@
 • Gene Expression: Gene Expression Omnibus database (GEO, https://www.ncbi.nlm.nih.gov/geo/) \
 • Pathways genesets: MSigDB (Molecular Signature Database, https://www.gsea-msigdb.org/gsea/msigdb) \ 
 
+**Code**
 
-# Pathway cross-talk
-Type I Pathway cross-talk.py and Type II Pathway cross-talk.py Python scripts are designed to identify pathway cross-talk by analyzing co-expressed genes belonging to different pathways. 
-
-# Gene Expression Analysis 
-This R script performs the normalization of raw microarray data, identifies differentially expressed genes (DEGs) using the limma package, calculates the Pearson correlation between genes, and compares the correlation patterns across different datasets.
-
-# Gene Regulatory Network analysis 
-
-This R script used to calculate the dysregulation score for each gene based on its change in interaction strength with other genes from the normal state to the CRC state by integrating the gene expression information with the gene regulatory network.
+In the GitHub repository, there are two main directories: \
+**Python:** Pathway cross-talk network construction
+**R:**  Gene expression analysis and gene regulatory analysis
 
 
 
