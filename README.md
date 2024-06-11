@@ -16,7 +16,7 @@
 **Code**
 
 In the GitHub repository, there are two main directories: \
-**Python:** Pathway cross-talk network construction
+**Python:** Pathway cross-talk network construction \
 **R:**  Gene expression analysis and gene regulatory analysis
 
 
